@@ -1,0 +1,1 @@
+Detta program ska klassificera punkter baserat på deras position i förhållande till en linje och visualisera resultaten. Detta kan vara användbart inom maskininlärning eller dataanalys där man t.ex. ska hitta samband.
